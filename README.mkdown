@@ -1,0 +1,5 @@
+TODO: make a package / build script to minify DACoreJS
+
+dependencies
+-----------
+pixi.min.js
